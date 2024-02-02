@@ -6,11 +6,11 @@ This data analysis project has different categories which includes, Segment, Shi
 
 ### Data Sources
 
-This data source is from multiple 
+This data source is from multiple sources and analysis of Strutured Data Company sales
 
 ### Tools
 
-- Microsoft SQL -
+- Microsoft SQL - Data Analysis
 
 ### Exploratory Data Analysis (EDA)
 
